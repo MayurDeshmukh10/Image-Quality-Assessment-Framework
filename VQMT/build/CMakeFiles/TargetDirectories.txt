@@ -1,0 +1,11 @@
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/install/strip.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/install/local.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/install.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/list_install_components.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/rebuild_cache.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/dist.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/edit_cache.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/uninstall.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/package.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/vqmt.dir
+/home/mayur/Music/Image_compression_benchmarks/VQMT/build/CMakeFiles/package_source.dir
